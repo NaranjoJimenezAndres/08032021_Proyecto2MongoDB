@@ -1,8 +1,8 @@
-# PROYECTO BASE DE DATOS NO RELACIONALES (NOSQL)- ANÁLISIS Y SCOUTING EN LIGAS DE FUTBOL PROFESIONALES
+# PROYECTO BASE DE DATOS NO RELACIONALES (NOSQL)- ANÁLISIS Y SCOUTING EN LIGAS DE FÚTBOL PROFESIONALES
 
 Análisis de 3 de las grandes ligas europeas en el cual se va a poner en estudio los equipos, los jugadores, su rendimiento y los patrocinadores.
 
-En este proyecto se va a simular diferentes situaciones relacionadas con el mercado del futbol que pueden presentarse en el mundo real.  
+En este proyecto se va a simular diferentes situaciones relacionadas con el mercado del fútbol que pueden presentarse en el mundo real.  
 
 ## Carpetas📋
 
