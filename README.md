@@ -13,9 +13,13 @@ En este proyecto se va a simular diferentes situaciones relacionadas con el merc
 
 * **src**
     **consultas.js**: _Contiene las consultas realizadas en la base de datos_
+    
     **Coleccion_equipo.js**: _Colección de datos de diferentes equipos de 3 ligas_
+    
     **Coleccion_jugador.js**: _Colección que contiene los datos de cada jugador en detalle_
+    
     **Coleccion_rendimiento.js**:_Colección que contiene la informacion del rendimiento de cada jugador hasta la fecha de la creación de la base de datos._
+    
     **Coleccion_patrocinador.js**: _Colección de datos de los patrocinadores de cada club y jugador_
 
 ## Construido con 🛠️
